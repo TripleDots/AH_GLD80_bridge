@@ -10,5 +10,8 @@ This allows a deeper integration, like being able to color the tracks based on D
 There aren't much DAWs that allow you to do that. So for other DAWs, you either have to color it on the desk or leave it as default.
 
 I have only tested it on Windows 11 with REAPER and Davinci Resolve.
+It should also work on MacoOS and Linux including the installers.
+For Windows users, you can use either MIDI 2.0 or LoopMidi to create midi ports.
+MacOS has it built in, like most Linux distros.
 
 If you want to vibe code any changes, just upload the .zip to ChatGPT. You'll need a Plus account or else you'll have to constantly add the new code yourself.
